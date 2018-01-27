@@ -1,9 +1,13 @@
-# mattophobia-says
+# mattophobia_says
 This is a Python library that is used for generating strings that what [Mattophobia](https://twitter.com/Mattophobia), COO of Nerd Cubed LTD, would say. This is a rewrite of the NPM package of the same name by Jack Baron, viewable here: https://unpkg.com/mattophobia-says@0.3.0/
+## Installing
+```
+python3 -m pip install mattophobia-says
+```
 ## Example
 ```Python
 #Import the library
-from mattophobia-says import MattSays
+from mattophobia_says import MattSays
 
 #Setup the generator
 generator = MattSays()
