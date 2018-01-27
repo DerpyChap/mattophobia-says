@@ -32,6 +32,7 @@ You can customize the length of `MattSays().generate()` too:
 MattSays().generate(min, max)
 ```
 **min** - An int determining the minimum length of the string
+
 **max** - An int determining the maximum length of the string
 
 ## Requirements
