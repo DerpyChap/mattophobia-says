@@ -11,7 +11,7 @@ __title__ = 'mattophobia_says'
 __author__ = 'DerpyChap'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2018 DerpyChap'
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 from collections import namedtuple
 from .mattsays import MattSays
@@ -19,4 +19,4 @@ from .mattsays import MattSays
 VersionInfo = namedtuple('VersionInfo', 'major minor micro releaselevel serial')
 
 version_info = VersionInfo(
-    major=0, minor=1, micro=1, releaselevel='final', serial=0)
+    major=0, minor=1, micro=2, releaselevel='final', serial=0)
