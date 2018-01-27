@@ -7,7 +7,7 @@ Generates a string that Mattophobia would probably say.
 :license: MIT, see LICENSE for more details.
 """
 
-__title__ = 'mattophobia-says'
+__title__ = 'mattophobia_says'
 __author__ = 'DerpyChap'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2018 DerpyChap'

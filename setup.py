@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-    name='mattophobia-says',
-    packages=['mattophobia-says'],
+    name='mattophobia_says',
+    packages=['mattophobia_says'],
     version='0.1',
     description='A Mattophobia string generator',
     author='DerpyChap',
