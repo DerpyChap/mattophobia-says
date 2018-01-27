@@ -22,7 +22,9 @@ MattSays(swears, ings, standalone)
 ```
 
 **swears** - A list of various swearwords 
+
 **ings** - A list of words ending in "ing"
+
 **standalone** - A list of standalone sentences that can be sent in place of a randomly generated string of swears.
 
 You can customize the length of `MattSays().generate()` too:
