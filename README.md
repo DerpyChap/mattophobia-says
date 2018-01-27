@@ -15,6 +15,10 @@ generator = MattSays()
 #Generate a random Matt string
 print(generator.generate())
 ```
+Example output:
+```
+Damn hell god damn it holy wanker fuck cunt cock asshat.
+```
 ## Customization
 `MattSays()` lets you submit your own lists of profanities to the generator if you feel like the current list of words aren't enough.
 ```Python
